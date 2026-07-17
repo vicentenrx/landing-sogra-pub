@@ -35,20 +35,21 @@ Formaturas) podem ser editados diretamente no `index.html`, dentro da seção
 `<!-- ===== SOBRE MIM / EVENTOS ===== -->`.
 
 ### 2. WhatsApp
-No `index.html`, troque o número no link:
+Já configurado com o número da Mara. Para trocar, edite o link no `index.html`:
 ```html
-<a href="https://wa.me/5500000000000" ...>
+<a href="https://wa.me/5553981035560" ...>
 ```
 Use o formato `55` + DDD + número, sem espaços ou traços.
 
 ### 3. Instagram
-Troque o link e o texto `@marakrause.eventos` pelo perfil real:
+Já configurado com `@maravkrause`. Para trocar, edite o link e o texto no `index.html`:
 ```html
 <a href="https://instagram.com/SEU_USUARIO" ...>
 ```
 
 ### 4. Endereço do escritório
-No cartão "Endereço" (seção Contato), substitua "Em breve" pelo endereço real.
+Ainda pendente — no cartão "Endereço" (seção Contato), substitua "Em breve" pelo
+endereço real assim que for informado.
 
 ## Publicação
 
